@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1591848667011.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "109061916",
+    "id" : "A7A14CC0",
+    "lastKnownWriteTime" : 1591888304,
+    "last_content_update" : 1591888304616,
+    "path" : "D:/ProjectR/Uber Data Analysis.R",
+    "project_path" : "Uber Data Analysis.R",
+    "properties" : {
+        "cursorPosition" : "157,0",
+        "scrollLine" : "149",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
